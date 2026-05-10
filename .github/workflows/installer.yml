@@ -32,6 +32,7 @@ jobs:
           - lmi
           # sm8550
           - fuxi
+          - vermeer
           # sm7325
           - lisa
 
