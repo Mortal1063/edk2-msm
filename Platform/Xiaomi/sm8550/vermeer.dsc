@@ -21,7 +21,7 @@
   gQcomTokenSpaceGuid.PcdMipiFrameBufferHeight|2400
 
   # Simple Init
-  gSimpleInitTokenSpaceGuid.PcdGuiDefaultDPI|560
+  gSimpleInitTokenSpaceGuid.PcdGuiDefaultDPI|420
 
   gRenegadePkgTokenSpaceGuid.PcdDeviceVendor|"Xiaomi"
   gRenegadePkgTokenSpaceGuid.PcdDeviceProduct|"Redmi K70"
