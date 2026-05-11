@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
-      max-parallel: 8
+      max-parallel: 9
       matrix:
         device:
           # sm8150
